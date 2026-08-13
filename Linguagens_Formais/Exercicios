@@ -1,90 +1,13 @@
-atividade do dia 11/08.
+**Atividade do dia 11/08**
 # Aula 02: Sumário, objetivos, conteúdo, exemplos, exercícios e revisão para prova.
 
-
-
-# 📚 Aula 1 — Linguagens Formais e Gramáticas
-
-
+**Linguagens Formais e Gramáticas**
 
 > Introdução aos principais conceitos de **Linguagens Formais, Alfabetos, Cadeias, Linguagens e Gramáticas**.
 
 
 
 ---
-
-
-
-## 📑 Sumário
-
-
-
-* [🎯 Objetivos da Aula](#-objetivos-da-aula)
-
-* [1. Operadores Lógicos](#1-operadores-lógicos)
-
-* [2. Palavra Vazia — ε](#2-palavra-vazia--)
-
-* [3. Prefixos e Sufixos](#3-prefixos-e-sufixos)
-
-* [4. Alfabeto — Σ](#4-alfabeto--)
-
-* [5. Σ* — Todas as Cadeias Possíveis](#5---todas-as-cadeias-possíveis)
-
-* [6. Linguagem Formal — L](#6-linguagem-formal--l)
-
-* [7. Gramática Formal](#7-gramática-formal)
-
-* [8. Regras de Produção](#8-regras-de-produção)
-
-* [9. Como Ler →](#9-como-ler-)
-
-* [10. Derivação de Palavras](#10-derivação-de-palavras)
-
-* [11. Linguagem Gerada](#11-linguagem-gerada)
-
-* [12. Atividades Práticas](#12-atividades-práticas)
-
-* [13. Resumo para Prova](#13-resumo-para-prova)
-
-* [14. Mapa Mental](#14-mapa-mental)
-
-
-
----
-
-
-
-# 🎯 Objetivos da Aula
-
-
-
-Ao final desta aula, devemos ser capazes de:
-
-
-
-* Entender o conceito de **alfabeto**;
-
-* Identificar **cadeias/palavras**;
-
-* Compreender a **palavra vazia `ε`**;
-
-* Identificar **prefixos e sufixos**;
-
-* Entender o conceito de **linguagem formal**;
-
-* Interpretar a notação **`L ⊆ Σ*`**;
-
-* Compreender o funcionamento de uma **gramática formal**;
-
-* Interpretar **regras de produção**;
-
-* Gerar palavras a partir de uma gramática.
-
-
-
----
-
 
 
 # 1. Operadores Lógicos
@@ -110,8 +33,6 @@ Os principais operadores estudados são:
 
 
 ### Exemplo
-
-
 
 Considere:
 
