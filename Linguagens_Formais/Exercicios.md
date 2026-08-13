@@ -1376,7 +1376,8 @@ ab
 
 Liste os prefixos e sufixos.
 
-
+Resposta: Prefixo={ε, a, ab}
+Sufixo={ε, b, ab}
 
 ### Gabarito
 
@@ -1432,6 +1433,7 @@ G = ({S}, {a}, {S → aS | ε}, S)
 
 Liste 3 palavras geradas.
 
+Resposta: ε a aa; aaa aaaa aaaaa; ε
 
 
 ### Gabarito
