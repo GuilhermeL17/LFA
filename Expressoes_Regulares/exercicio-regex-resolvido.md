@@ -1,7 +1,5 @@
 # Resolução — Expressões Regulares
 
-Seguindo o processo guiado: alfabeto → blocos → escolhas/ordem/repetições → exemplos válidos/inválidos → expressão.
-
 ---
 
 ## Exercício 1 — Sufixo 00
@@ -121,7 +119,7 @@ Estrutura conceitual do DFA (descrição, já que o desenho não pode ser reprod
 
 ---
 
-## Perguntas de reflexão (seção 11)
+## Perguntas de reflexão 
 
 **1. Toda expressão regular formal representa uma linguagem regular?**
 Sim, por definição — expressões regulares e linguagens regulares são equivalentes (teorema de Kleene).
