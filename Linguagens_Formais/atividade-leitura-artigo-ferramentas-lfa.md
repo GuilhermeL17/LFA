@@ -42,7 +42,11 @@ Registre suas anotações no quadro abaixo.
 | Elemento observado | Anotação do estudante | Página/seção |
 |---|---|---|
 | Problema educacional |  |  |
-| Contribuição das ferramentas |  |  |
+| Contribuição das ferramentas |   Eles são úteis para a construção de vários diferentes tipos 
+de software, incluindo o componente de análise léxica de um compilador e sistemas para 
+verificar a exatidão dos circuitos ou protocolos. Os autômatos finitos constituem um 
+modelo útil para muitos elementos de hardware e software [Hopcroft, Motwani and 
+Ullman 2001]. |2  |
 | Diferença entre ferramentas |  |  |
 | Limitação ou lacuna |  |  |
 | Afirmação para debate |  |  |
