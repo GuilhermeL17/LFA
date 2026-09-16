@@ -31,22 +31,51 @@ Ao concluir a atividade, o estudante deverá ser capaz de:
 
 Durante a leitura, marque no artigo:
 
-- uma passagem que apresente a dificuldade enfrentada pelos estudantes;
-- uma justificativa para o uso de ferramentas educacionais;
-- duas características que diferenciem as ferramentas analisadas;
-- uma limitação ou lacuna percebida no estudo;
+- uma passagem que apresente a dificuldade enfrentada pelos estudantes:
+  É comum que os materiais e as atividades didáticas de LFA adotem um enfoque 
+essencialmente algébrico, o que exige dos alunos não apenas uma boa formação 
+matemática, mas também, e principalmente, uma grande capacidade de raciocínio lógico 
+e abstrato. Por esse motivo, os estudantes de tais textos precisam lidar com um nível de 
+complexidade adicional, além daquele que é inerente aos assuntos da área, para 
+conseguir bons resultados na disciplina [Ramos 2009]. pag01
+
+- uma justificativa para o uso de ferramentas educacionais:
+  Com esse objetivo em pauta, este trabalho coleta diferentes ferramentas que 
+podem ser aplicadas no uso, estudo e aplicação de conceitos de Linguagens Formais e 
+Autômatos, mais especificamente: autômatos finitos determinísticos (AFDs), autômatos 
+finitos não determinísticos (AFNDs), conversões de AFNDs para AFDs, autômatos de 
+pilha (AP) e representações de transições na forma escrita e gráfica. pag02
+
+- duas características que diferenciem as ferramentas analisadas:
+  Existem diferentes tipos de autômatos. Este trabalho aborda ferramentas focadas 
+na criação, manipulação e entendimento de autômatos finitos determinísticos (há apenas 
+um caminho para uma transição de estados a partir de um único símbolo lido), não 
+determinísticos (há múltiplos caminhos para uma transição envolvendo um determinado 
+símbolo) e Autômatos de Pilha (onde o critério de aceitação envolve não só a palavra 
+analisada, mas também a esvaziamento de sua pilha)
+  
+- uma limitação ou lacuna percebida no estudo:
+  Eles não foram testados 
+  
 - uma afirmação com a qual você concorda ou discorda.
+  Tendo em vista que as disciplinas relacionadas aos tópicos abordados neste 
+trabalho normalmente são de difíceis absorções, representando em alguns cursos os 
+primeiros contatos mais intensos dos alunos de graduação com formalismos aplicados 
+diretamente aos conceitos computacionais e que tais disciplinas são a raiz de diversos 
+conteúdos abordados ao longo do curso de graduação em Ciência da Computação, como 
+Compiladores e Teoria da Computação, a aplicação de ferramentas que possibilitem 
+melhor fixação faz-se essencial para uma melhor experiência na jornada desses 
+discentes.   
+
+
+  
 
 Registre suas anotações no quadro abaixo.
 
 | Elemento observado | Anotação do estudante | Página/seção |
 |---|---|---|
 | Problema educacional |  |  |
-| Contribuição das ferramentas |   Eles são úteis para a construção de vários diferentes tipos 
-de software, incluindo o componente de análise léxica de um compilador e sistemas para 
-verificar a exatidão dos circuitos ou protocolos. Os autômatos finitos constituem um 
-modelo útil para muitos elementos de hardware e software [Hopcroft, Motwani and 
-Ullman 2001]. |2  |
+| Contribuição das ferramentas |   |  |
 | Diferença entre ferramentas |  |  |
 | Limitação ou lacuna |  |  |
 | Afirmação para debate |  |  |
