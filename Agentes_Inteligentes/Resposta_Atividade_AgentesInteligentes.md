@@ -14,7 +14,7 @@ Realize os exercícios 2.3, 2.4 e 2.5 do Capítulo 2 sobre agentes inteligentes.
 
 ---
 
-## **Exercício 2.3**** **Verdadeiro ou falso, com justificativa e exemplo/contraexemplo
+## **Exercício 2.3 Verdadeiro ou falso, com justificativa e exemplo/contraexemplo
 
 ### a. Um agente que detecta apenas informações parciais sobre o estado não pode ser perfeitamente racional.
 
@@ -90,7 +90,7 @@ Realize os exercícios 2.3, 2.4 e 2.5 do Capítulo 2 sobre agentes inteligentes.
 
 ---
 
-## **Exercício 2.4**** **PEAS e classificação dos ambientes
+## **Exercício 2.4** **PEAS e classificação dos ambientes
 
 ### Caso 1: Jogar futebol
 
